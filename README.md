@@ -1,2 +1,2 @@
-# challenges
-My solutions to coding challenges available from pages such as r/dailyprogrammer
+# Coding Challenges
+My solutions to coding challenges available from online challenge pages
