@@ -1,2 +1,2 @@
 # Coding Challenges
-My solutions to coding challenges available from online challenge pages
+My solutions to coding challenges I found online
